@@ -1,4 +1,4 @@
-Lab-4-starter
+Non-Creative Name, Lab 4
 =============
 
 The starter code and tests for Lab 4: Traversing directories. This includes the starter code and simple shell tests.
