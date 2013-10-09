@@ -1,0 +1,4 @@
+Here is some test text that we are going to disemvowel
+WITH another RowS
+DERP YAY
+TEST

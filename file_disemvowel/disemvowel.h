@@ -1,6 +1,6 @@
 #ifndef DISEMVOWEL_H_GUARD
 #define DISEMVOWEL_H_GUARD
 
-char* disemvowel(char* str);
+char* disemvowel(FILE* input, FILE* output);
 
 #endif
